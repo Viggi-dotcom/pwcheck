@@ -56,7 +56,7 @@ This project provides a comprehensive real-time password strength inspector, vul
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Viggi-dotcom/pwcheck.git
-   cd python-password-strength-analyzer
+   cd pwcheck
    ```
 
 2. **Install dependencies:**
